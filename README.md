@@ -64,4 +64,4 @@ The BlobLight projector will project from the water's surface, while the grid pr
 ![Walkthrough](https://github.com/akash1306/UnderwaterExample/blob/master/Images/ex4.gif)
 ***
 
-And that is how you create an underwater scene. You can insert several other objects in the scene according to your needs and create a custom controller for your player so that you can control it in all degrees of freedom when underwater. You can go through the documentation of this project to know more about how to do that. A sample barebones underwater scene can be found here. 
+And that is how you create an underwater scene. You can insert several other objects in the scene according to your needs and create a custom controller for your player so that you can control it in all degrees of freedom when underwater.
