@@ -1,5 +1,19 @@
 This project deals with creating a realistic underwater environment, which includes water surface, light diffusion effects, and fog effects. We will not discuss underwater distortion as that will involve shaders, which fall out of the scope of this section.
 
+This repo is based on the published paper:
+
+```
+@inproceedings{chaudhary_2021,
+   author = {Akash Chaudhary and Rajat Mishra and Bharath Kalyan and Mandar Chitre},
+   title = {Development of an Underwater Simulator using Unity3D and Robot Operating System},
+   year = 2021,
+   month = {Sep},
+   publisher = {{IEEE}},
+   booktitle = {{OCEANS} 2021 {MTS}/{IEEE}}
+}
+```
+
+
 ## Setting Up the Environment
 We will first set up the environment using some simple shapes and Unity's Standard Assets. The steps are as follows:
 1. Make a pool using 5 cubes by resizing them. 
